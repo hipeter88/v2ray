@@ -8,7 +8,7 @@
 
 
 ##
-bash <(curl -s -L https://raw.githubusercontent.com/hipeter88/v2ray/dev/install.sh)
+(  bash <(curl -s -L https://raw.githubusercontent.com/hipeter88/v2ray/dev/install.sh)   )
 
 支持 Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统
 
