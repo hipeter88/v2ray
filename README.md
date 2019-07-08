@@ -18,3 +18,5 @@ ubuntu/debian 系统安装 Curl 方法: apt-get update -y && apt-get install cur
 ##
 centos 系统安装 Curl 方法: yum update -y && yum install curl -y
 安装好 curl 之后就能安装脚本了
+##
+aes-256-gcm
