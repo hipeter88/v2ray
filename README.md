@@ -17,6 +17,6 @@ bash <(curl -s -L https:/raw.githubusercontent.com/hipeter88/v2ray/dev/install.s
 ubuntu/debian 系统安装 Curl 方法: apt-get update -y && apt-get install curl -y
 ##
 centos 系统安装 Curl 方法: yum update -y && yum install curl -y
-安装好 curl 之后就能安装脚本了........快件管理v2ray....安装Telegram 代理,安装命令v2ray tg，配置命令配置 Telegram MTProto
+安装好 curl 之后就能安装脚本了........快件管理v2ray....安装Telegram 代理,安装命令v2ray tg，配置 Telegram MTProto
 ##
 aes-256-gcm
